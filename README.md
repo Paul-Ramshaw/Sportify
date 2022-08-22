@@ -39,7 +39,7 @@ To run this project locally you'll also need to 1) create a firebase project, 2)
 
 ## Seeding the test database
 
-The Sportify-Firebase-admmin can be used to seed the database with sample data.
+The Sportify-Firebase-admin can be used to seed the database with sample data.
 [Sportify-Firebase-admin](https://github.com/Paul-Ramshaw/Sportify-Firebase-Admin)
 
 
