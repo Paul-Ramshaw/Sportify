@@ -44,7 +44,7 @@ The Sportify-Firebase-admmin can be used to seed the database with sample data.
 
 ## Dependencies
 
-- [firebase](https://reactjs.org/)
+- [firebase](https://www.npmjs.com/package/firebase)
 - [react](https://reactjs.org/)
 - [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
 - [react-bootstrap](https://react-bootstrap.github.io/)
