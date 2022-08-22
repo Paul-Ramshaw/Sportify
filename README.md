@@ -43,6 +43,10 @@ Once your firebase project is setup add the firebase project configuration detai
 The Sportify-Firebase-admin can be used to seed the database with sample data.  For more information, take a look at: 
 [Sportify-Firebase-admin](https://github.com/Paul-Ramshaw/Sportify-Firebase-Admin).
 
+## Google Maps API
+
+Sportify uses the google maps api.  To get maps up and running on your local project create a google maps api key by following the 'get started' instructions on the google maps developer platform (https://developers.google.com/maps).  Add your api key to your .env file.
+
 ## Dependencies
 
 - [firebase](https://www.npmjs.com/package/firebase)
