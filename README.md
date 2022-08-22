@@ -1,8 +1,8 @@
 # Sportify
 
-The aim of Sportify is to help increase inclusivity in sport.  The platform lets users find and book onto local sporting events.  It also allows users to view information about the event host, including a rating of the host.  The user can also host their own events.  
+The aim of Sportify is to help increase inclusivity in sport.  The platform lets users search for local sporting events, view information about the event and event host, including a rating of the host.  It also allows users to host their own events.  
 
-The application uses Firebase for a number of services.  Specifically, Firebase Authentication, Cloud Firestore and Cloud Storage for Firebase.  
+The application uses Firebase for a number of services.  Specifically, Firebase Authentication is used to securely handle user signup and login, Cloud Firestore is used as the primary database and Google Cloud Storage is used to store media.  The app is built with React and styled with react-boostrap.  react-google-map-api and react-geocode are used to display google maps.
 
 ## Getting started
 
@@ -45,7 +45,7 @@ The Sportify-Firebase-admin can be used to seed the database with sample data.  
 
 ## Google Maps API
 
-Sportify uses the google maps api.  To get maps up and running on your local project create a google maps api key by following the 'get started' instructions on the google maps developer platform (https://developers.google.com/maps).  Add your api key to your .env file.
+Sportify uses the google maps api.  To get maps up and running on your local project create a google maps api key by following the 'get started' instructions on the google maps developer platform (https://developers.google.com/maps).  Add your api key to your .env file at the root of the project.
 
 ## Dependencies
 
