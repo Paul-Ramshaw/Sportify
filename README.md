@@ -40,7 +40,7 @@ Once your firebase project is setup add the firebase project configuration detai
 
 ## Seeding the test database
 
-The Sportify-Firebase-admin can be used to seed the database with sample data.  More information can be found here: 
+The Sportify-Firebase-admin can be used to seed the database with sample data.  For more information, take a look at: 
 [Sportify-Firebase-admin](https://github.com/Paul-Ramshaw/Sportify-Firebase-Admin).
 
 ## Dependencies
