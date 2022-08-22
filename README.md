@@ -9,13 +9,13 @@ To run this application on your local machine, you'll need [Git](https://git-scm
 1. Clone the repository to your local machine
 
 ```
-$ git clone https://github.com/Paul-Ramshaw/nc-news.git](https://github.com/Paul-Ramshaw/sportify.git)
+$ git clone https://github.com/Paul-Ramshaw/sportify.git
 ```
 
 2. Go into the repository
 
 ```
-$ cd nc-news
+$ cd sportify
 ```
 
 3. Install all the required dependencies
@@ -30,6 +30,10 @@ $ npm install
 $ npm start
 ```
 
+## Firebase Configuration
+
+To run this project locally 
+
 
 ## Seeding the test database
 
@@ -40,6 +44,7 @@ The Sportify-Firebase-admmin can be used to seed the database with sample data.
 
 ## Dependencies
 
+- [firebase](https://reactjs.org/)
 - [react](https://reactjs.org/)
 - [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
 - [react-bootstrap](https://react-bootstrap.github.io/)
