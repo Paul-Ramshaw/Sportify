@@ -1,6 +1,6 @@
 # Sportify
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The aim of Sportify is to help increase inclusivity in sport.  The platform lets users find and book onto local sporting events.  It also allows users to view information about the event host, including a rating of the host.  
 
 ## Available Scripts
 
