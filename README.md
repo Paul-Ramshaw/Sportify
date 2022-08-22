@@ -2,6 +2,8 @@
 
 The aim of Sportify is to help increase inclusivity in sport.  The platform lets users find and book onto local sporting events.  It also allows users to view information about the event host, including a rating of the host.  The user can also host their own events.  
 
+The application uses Firebase for a number of services.  Specifically, Firebase Authentication, Cloud Firestore and Cloud Storage for Firebase.  
+
 ## Getting started
 
 To run this application on your local machine, you'll need [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en/download/) installed. Then take the following steps:
@@ -32,7 +34,7 @@ $ npm start
 
 ## Firebase Configuration
 
-To run this project locally 
+To run this project locally you'll also need to 1) create a firebase project, 2) add a .env file to the root of your project add the your projects credentials to your .env file.  
 
 
 ## Seeding the test database
@@ -45,6 +47,10 @@ The Sportify-Firebase-admmin can be used to seed the database with sample data.
 ## Dependencies
 
 - [firebase](https://www.npmjs.com/package/firebase)
+- [firebase](https://www.npmjs.com/package/firebase)
+- [firebase](https://www.npmjs.com/package/firebase)
+- [firebase](https://www.npmjs.com/package/firebase)
+
 - [react](https://reactjs.org/)
 - [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
 - [react-bootstrap](https://react-bootstrap.github.io/)
