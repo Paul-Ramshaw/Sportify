@@ -36,7 +36,7 @@ $ npm start
 
 To run this project locally you'll also need to create a firebase project and add firebase authentication, a firestore database and storage.  For more information, follow the firebase getting started guide: https://firebase.google.com/.  
 
-Once your firebase project is setup add the project details to a .env file in the root of your sportify project.
+Once your firebase project is setup add the firebase project configuration details to a .env file in the root of your sportify project. Make sure that the environment variables have the same names as those used in the sportify /config/firebase file.
 
 ## Seeding the test database
 
