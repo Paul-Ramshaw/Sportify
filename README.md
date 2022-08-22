@@ -47,26 +47,18 @@ The Sportify-Firebase-admmin can be used to seed the database with sample data.
 ## Dependencies
 
 - [firebase](https://www.npmjs.com/package/firebase)
-- [firebase](https://www.npmjs.com/package/firebase)
-- [firebase](https://www.npmjs.com/package/firebase)
-- [firebase](https://www.npmjs.com/package/firebase)
+- [react-geocode](https://www.npmjs.com/package/react-geocode)
 
 - [react](https://reactjs.org/)
 - [react-router-dom](https://v5.reactrouter.com/web/guides/quick-start)
 - [react-bootstrap](https://react-bootstrap.github.io/)
+- [react-bootstrap-range-slider](https://www.npmjs.com/package/react-bootstrap-range-slider)
 - [bootstrap](https://getbootstrap.com/)
 - [react-icons](https://fontawesome.com/)
-
+- [dotenv](https://www.npmjs.com/package/dotenv)
+- [@react-google-maps/api](https://www.npmjs.com/package/@react-google-maps/api)
 
 ## System Requirements
 
 Node.js v18 or above<br>
 
-
-
-
-Open [http://localhost:3000](http://localhost:3000) 
-
-
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
