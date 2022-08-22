@@ -53,7 +53,7 @@ The Sportify-Firebase-admin can be used to seed the database with sample data.
 - [bootstrap](https://getbootstrap.com/)
 - [react-bootstrap-range-slider](https://www.npmjs.com/package/react-bootstrap-range-slider)
 - [react-icons](https://fontawesome.com/)
-- [@react-google-maps/api](https://www.npmjs.com/package/@react-google-maps/api)
+- [react-google-maps/api](https://www.npmjs.com/package/@react-google-maps/api)
 - [react-geocode](https://www.npmjs.com/package/react-geocode)
 - [dotenv](https://www.npmjs.com/package/dotenv)
 
