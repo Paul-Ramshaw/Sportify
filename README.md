@@ -9,7 +9,7 @@ To run this application on your local machine, you'll need [Git](https://git-scm
 1. Clone the repository to your local machine
 
 ```
-$ git clone https://github.com/Paul-Ramshaw/nc-news.git
+$ git clone https://github.com/Paul-Ramshaw/nc-news.git](https://github.com/Paul-Ramshaw/sportify.git)
 ```
 
 2. Go into the repository
